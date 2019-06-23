@@ -10,25 +10,20 @@ body {
     width: 600px;
     margin: 0 auto;
     padding: 0 30px 30px 30px;
-    border: 5px solid black;
   }
 
 
 h1 {
-    font-size: 22px;
+    font-size: 30px;
+    text-align: center;
     margin: 0;
     padding: 20px 0;    
     color: rgb(255, 255, 255);
     text-shadow: 3px 3px 1px black;
 }
 
-h2 {
-    font-size: 18px;
-    text-align: center;
-}
-  
 p {
-   font-size: 16px;    
+   font-size: 22px;    
    line-height: 2;
    letter-spacing: 1px;
    text-align: center;
@@ -37,6 +32,10 @@ p {
 img {
     display: block;
     margin: 0 auto;
+}
+
+#myfooter {
+    bottom: 0;
 }
 
 
